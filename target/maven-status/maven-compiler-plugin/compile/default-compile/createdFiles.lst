@@ -1,0 +1,5 @@
+domain\Persona.class
+test\TestPersonaServiceRs.class
+test\PruebaRestWs.class
+test\TestPersonaServiceRs$1.class
+.netbeans_automatic_build
